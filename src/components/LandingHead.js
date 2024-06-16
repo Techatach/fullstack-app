@@ -36,7 +36,7 @@ export default function LandingHead() {
             <div class="flex-col px-6 py-2 ">
               <div class="h-40 w-60 rounded-2xl overflow-hidden bg-gray-200">
                 <img
-                //   src="https://source.unsplash.com/300x300/?boy"
+                  //   src="https://source.unsplash.com/300x300/?boy"
                   src="images/nst.jpg"
                   alt=""
                   class=""
@@ -51,7 +51,7 @@ export default function LandingHead() {
             <div class="flex-col px-6 py-2 ">
               <div class="h-40 w-60 rounded-2xl overflow-hidden bg-gray-200">
                 <img
-                //   src="https://source.unsplash.com/300x300/?girl"
+                  //   src="https://source.unsplash.com/300x300/?girl"
                   src="images/nst.jpg"
                   alt=""
                   class=""
@@ -68,7 +68,7 @@ export default function LandingHead() {
             <div class="flex-col px-6 py-2 ">
               <div class="h-40 w-60 rounded-2xl overflow-hidden bg-gray-200">
                 <img
-                //   src="https://source.unsplash.com/300x300/?kid"
+                  //   src="https://source.unsplash.com/300x300/?kid"
                   src="images/nst.jpg"
                   alt=""
                   class=""
@@ -83,7 +83,7 @@ export default function LandingHead() {
             <div class="flex-col px-6 py-2 ">
               <div class="h-40 w-60 rounded-2xl overflow-hidden bg-gray-200">
                 <img
-                //   src="https://source.unsplash.com/300x300/?girl,woman"
+                  //   src="https://source.unsplash.com/300x300/?girl,woman"
                   src="images/nst.jpg"
                   alt=""
                   class=""
@@ -98,7 +98,54 @@ export default function LandingHead() {
             <div class="flex-col px-6 py-2 ">
               <div class="h-40 w-60 rounded-2xl overflow-hidden bg-gray-200">
                 <img
-                //   src="https://source.unsplash.com/300x300/?woman"
+                  //   src="https://source.unsplash.com/300x300/?woman"
+                  src="images/nst.jpg"
+                  alt=""
+                  class=""
+                />
+              </div>
+
+              <div class="text-lg font-medium text-stone-600 cursor-pointer hover:text-stone-400">
+                Wednesday Addams
+              </div>
+              <div class=" italic text-gray-500">Financer</div>
+            </div>
+          </div>
+          <div class="flex space-x-4 space-y-2 p-2 items-center justify-center md:flex-row flex-col ">
+            <div class="flex-col px-6 py-2 ">
+              <div class="h-40 w-60 rounded-2xl overflow-hidden bg-gray-200">
+                <img
+                  //   src="https://source.unsplash.com/300x300/?kid"
+                  src="images/nst.jpg"
+                  alt=""
+                  class=""
+                />
+              </div>
+
+              <div class="text-lg font-medium text-stone-600 cursor-pointer hover:text-stone-400">
+                Clay Johnson
+              </div>
+              <div class=" italic text-gray-500">Manager</div>
+            </div>
+            <div class="flex-col px-6 py-2 ">
+              <div class="h-40 w-60 rounded-2xl overflow-hidden bg-gray-200">
+                <img
+                  //   src="https://source.unsplash.com/300x300/?girl,woman"
+                  src="images/nst.jpg"
+                  alt=""
+                  class=""
+                />
+              </div>
+
+              <div class="text-lg font-medium text-stone-600 cursor-pointer hover:text-stone-400">
+                Hannah Saw
+              </div>
+              <div class=" italic text-gray-500">Marketing Producer</div>
+            </div>
+            <div class="flex-col px-6 py-2 ">
+              <div class="h-40 w-60 rounded-2xl overflow-hidden bg-gray-200">
+                <img
+                  //   src="https://source.unsplash.com/300x300/?woman"
                   src="images/nst.jpg"
                   alt=""
                   class=""
