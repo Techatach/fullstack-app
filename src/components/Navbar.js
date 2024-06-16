@@ -7,7 +7,7 @@ export default function Navbar() {
       <div class="flex justify-center">
         <div class="self-center top-0 w-full max-w-8xl ml-72">
           <div class="flex justify-between items-center text-gray-700">
-            <Link href="#">
+            <Link href="/">
               <div class="mx-2 my-4 hidden md:flex items-center text-[20px] font-semibold pr-10">
                 <img src="images/logo.png" width="65" height="65" />
                 <ul class="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1 ml-5 text-[20px] text-bold">
@@ -18,7 +18,7 @@ export default function Navbar() {
             </Link>
             <ul class="hidden md:flex items-center text-[18px] font-semibold pr-10">
               <li class="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
-                <a href="#">หน้าหลัก</a>
+                <a href="/">หน้าหลัก</a>
               </li>
               <li class="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
                 <a href="#">เกี่ยวกับ</a>
@@ -82,7 +82,7 @@ export default function Navbar() {
         src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
       ></script>
       <script
-        nomodule
+        noModule
         src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
       ></script>
     </div>
